@@ -1,0 +1,24 @@
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+.myform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.myinput{
+    border-radius: 50px;
+    width: 84%;
+    font-size: 30px;
+    position: relative;
+    padding: 3px;
+}
+.btn{
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 80vw;
+    background-color: blue;
+    font-size: 1.2rem;
+}
